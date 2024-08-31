@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+torch
+torchvision
+tensorflow==2.13.1
+pandas
+numpy
+uvloop
